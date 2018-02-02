@@ -30,3 +30,18 @@ After termination symbol (Enter), the utility will print:
 
 *Example solution:* [calculator.py](https://github.com/hradecek/python3-complete-intro/blob/solutions/chapter01/calculator.py)
 
+## Awful Poetry
+Create utility that will generate 5 random texts. Choose randomly between two sentece structures:
+
+ - article, subject, verb and adverb,
+ - article, subject and verb.
+
+For exmample:
+```
+$ ./awfulpoetry.py
+another boy laughed badly
+a boy hoped
+...
+```
+
+*Example solution:* [awfulpoetry.py](https://github.com/hradecek/python3-complete-intro/blob/solutions/chapter01/awfulpoetry.py)
